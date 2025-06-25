@@ -37,7 +37,7 @@
 | Project | Tech Stack | Live | Code |
 |--------|------------|------|------|
 | **Portfolio Website** | Next.js, TailwindCSS | [🌍 Live](https://portfolio-kshitiz-alter.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/portfolio) |
-| **Educ0nnect** | React.js, TailwindCSS, Firebase | *Coming Soon* | [📦 GitHub](https://github.com/xitiz00/educ0nnect) |
+| **Educ0nnect** | React.js, TailwindCSS, Firebase | [🌍 Live](https://edu-c0nnect-kshitiz.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/educ0nnect) |
 
 > 🌱 More projects in progress...
 
