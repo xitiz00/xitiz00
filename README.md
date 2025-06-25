@@ -38,9 +38,6 @@
 |--------|------------|------|------|
 | **Portfolio Website** | Next.js, TailwindCSS | [🌍 Live](https://portfolio-kshitiz-alter.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/portfolio) |
 | **Educ0nnect** | React.js, TailwindCSS, Firebase | *Coming Soon* | [📦 GitHub](https://github.com/xitiz00/educ0nnect) |
-| **Weather App** | HTML, CSS, JavaScript, Weather API | [🌍 Live](https://your-weather-app.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/weather-app) |
-| **Blog CMS** | React, Firebase | [🌍 Live](https://your-blog-cms.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/blog-cms) |
-| **Landing Page** | HTML, TailwindCSS | [🌍 Live](https://your-landing-page.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/landing-page) |
 
 > 🌱 More projects in progress...
 
