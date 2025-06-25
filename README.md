@@ -3,7 +3,7 @@
 <h3 align="center">🌐 Web Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Turning+ideas+into+interactive+web+apps!;Frontend+focused+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Turning+ideas+into+interactive+websites!;Frontend+focused+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
