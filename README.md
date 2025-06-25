@@ -1,16 +1,65 @@
-## Hi there 👋
+ 
+<h1 align="center">Hi 👋, I'm Kshitiz Singh</h1>
+<h3 align="center">🌐 Web Developer | 🎨 UI/UX Designer | 🚀 Tech Enthusiast</h3>
 
-<!--
-**xitiz00/xitiz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Turning+ideas+into+interactive+web+apps!;Frontend+focused+%F0%9F%9A%80;React+%7C+Next.js+%7C+Tailwind+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Markup
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
+
+### 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express" />
+</p>
+
+### 🛢️ Databases & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### ⚒️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech Stack | Live | Code |
+|--------|------------|------|------|
+| **Portfolio Website** | Next.js, TailwindCSS | [🌍 Live](https://portfolio-kshitiz-alter.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/portfolio) |
+| **Educ0nnect** | React.js, TailwindCSS, Firebase | *Coming Soon* | [📦 GitHub](https://github.com/xitiz00/educ0nnect) |
+| **Weather App** | HTML, CSS, JavaScript, Weather API | [🌍 Live](https://your-weather-app.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/weather-app) |
+| **Blog CMS** | React, Firebase | [🌍 Live](https://your-blog-cms.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/blog-cms) |
+| **Landing Page** | HTML, TailwindCSS | [🌍 Live](https://your-landing-page.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/landing-page) |
+
+> 🌱 More projects in progress...
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kshitiz-singh-26364b216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kshitizsingh1688@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-kshitiz-alter.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Made with ❤️ by <strong>Kshitiz Singh</strong> | <code>xitiz00</code></p>
