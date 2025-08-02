@@ -38,7 +38,7 @@
 |--------|------------|------|------|
 | **Portfolio Website** | Next.js, TailwindCSS | [🌍 Live](https://portfolio-kshitiz-alter.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/portfolio) |
 | **Educ0nnect** | React.js, TailwindCSS, Firebase | [🌍 Live](https://edu-c0nnect-kshitiz.vercel.app/) | [📦 GitHub](https://github.com/xitiz00/educ0nnect) |
-
+| **DataVault** | React.js, TailwindCSS, Firebase | [🌍 Live](https://datavaultai.vercel.app/) | [📦 GitHub]() |
 > 🌱 More projects in progress...
 
 ---
